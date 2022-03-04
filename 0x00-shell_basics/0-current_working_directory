@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(readpath $0)"
+pwd
